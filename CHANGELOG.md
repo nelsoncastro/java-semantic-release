@@ -1,13 +1,6 @@
 # Changelog
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
-
-## [1.1.0](https://github.com/nelsoncastro/java-semantic-release/compare/v1.0.0...v1.1.0) (2025-03-17)
-
-
-### Features
-
-* Adicionar end-point ping ([811362d](https://github.com/nelsoncastro/java-semantic-release/commit/811362dbd9eafd7a467d22c0f63043eb7768f873))
+All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
 ## 1.0.0 (2025-03-17)
 
