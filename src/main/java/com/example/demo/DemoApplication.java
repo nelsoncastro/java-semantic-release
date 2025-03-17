@@ -18,4 +18,8 @@ public class DemoApplication {
 		return "Hello World Java!";
 	}
 
+	@GetMapping(path = "/ping")
+	public String ping() {
+		return "It's working!";
+	}
 }
